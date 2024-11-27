@@ -2,13 +2,13 @@
 
 This project brings you the **closest** experience to WhatsApp, crafted with the power of Flutter and Firebase. With features like real-time conversations, efficient media transmission, voice messaging, and robust security, we've recreated the essence of WhatsApp while adding our unique touch. Discover the familiarity you love, paired with exciting enhancements, all in one package.
 
-[🚀 **Try the latest release now!**](https://github.com/Tauseef-Hilal/WhatsUp/releases/tag/v0.1.1)
+[🚀 **Try the latest release now!**](https://github.com/Xatiko540/WhatsUp/releases/tag/v0.1.1)
 
 ## Watch The Video
 
-https://github.com/Tauseef-Hilal/WhatsUp/assets/67793598/3fd21809-5f38-4bd8-ab03-487556c4e915
+https://github.com/Xatiko540/WhatsUp/assets/67793598/3fd21809-5f38-4bd8-ab03-487556c4e915
 
-> **Note**: If the video is unplayable here, you can [**watch it on youtube**](https://youtu.be/SYPK5g2zr-A?si=W4MT1vmJ_uJS1LNA).
+
 
 ## Screenshots
 
@@ -34,7 +34,7 @@ Take a closer look to get to know about some of the app features
 - **Slick Interface:** Navigate smoothly through our beautifully designed interface, crafted with Flutter to ensure a delightful user experience.
 - **Stay Updated:** Never miss a beat with push notifications that keep you informed even when the app is in the background. Notification work only on Android because APNs requires a paid subscription.
 - **Offline Access:** Access your chats seamlessly, whether you're online or offline.
-- [There's more to come! Stay tuned](#the-future-is-exciting)
+
 
 ## Fortified by Firebase Firestore 🌐
 
